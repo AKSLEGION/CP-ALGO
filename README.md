@@ -10,208 +10,208 @@ The goal of this person is to traverse the wonderful resource https://cp-algorit
 
 ### Modules
 
-1. <p><span style="color:red">Algebra</span></p>
-        a. <span style="color:red">Fundamentals</span>
-                - <span style="color:red">Binary Exponentiation</span>
-                - <span style="color:red">Euclidean algorithm for computing the greatest common divisor</span>
-                - <span style="color:red">Extended Euclidean Algorithm</span>
-                - <span style="color:red">Linear Diophantine Equations</span>
-                - <span style="color:red">Fibonacci Numbers</span>
-        b. <span style="color:red">Prime numbers</span>
-                - <span style="color:red">Sieve of Eratosthenes</span>
-                - <span style="color:red">Linear Sieve</span>
-                - <span style="color:red">Primality tests</span>
-                - <span style="color:red">Integer factorization</span>
-        c. <span style="color:red">Number-theoretic functions</span>
-                - <span style="color:red">Euler's totient function</span>
-                - <span style="color:red">Number of divisors / sum of divisors</span>
-        d. <span style="color:red">Modular arithmetic</span>
-                - <span style="color:red">Modular Inverse</span>
-                - <span style="color:red">Linear Congruence Equation</span>
-                - <span style="color:red">Chinese Remainder Theorem</span>
-                - <span style="color:red">Garner's Algorithm</span>
-                - <span style="color:red">Factorial modulo p</span>
-                - <span style="color:red">Discrete Log</span>
-                - <span style="color:red">Primitive Root</span>
-                - <span style="color:red">Discrete Root</span>
-                - <span style="color:red">Montgomery Multiplication</span>
-        e. <span style="color:red">Number systems</span>
-                - <span style="color:red">Balanced Ternary</span>
-                - <span style="color:red">Gray code</span>
-        f. <span style="color:red">Miscellaneous</span>
-                - <span style="color:red">Bit manipulation</span>
-                - <span style="color:red">Enumerating submasks of a bitmask</span>
-                - <span style="color:red">Arbitrary-Precision Arithmetic</span>
-                - <span style="color:red">Fast Fourier transform</span>
-                - <span style="color:red">Operations on polynomials and series</span>
-                - <span style="color:red">Continued fractions</span>
-                - <span style="color:red">Factoring Exponentiation</span>
-2. <span style="color:red">Data Structures</span>
-        a. <span style="color:red">Fundamentals</span>
-                - <span style="color:red">Minimum Stack / Minimum Queue</span>
-                - <span style="color:red">Sparse Table</span>
-        b. <span style="color:red">Trees</span>
-                - <span style="color:red">Disjoint Set Union</span>
-                - <span style="color:red">Fenwick Tree</span>
-                - <span style="color:red">Sqrt Decomposition</span>
-                - <span style="color:red">Segment Tree</span>
-                - <span style="color:red">Treap</span>
-                - <span style="color:red">Sqrt Tree</span>
-                - <span style="color:red">Randomized Heap</span>
-        c. <span style="color:red">Advanced</span>
-                - <span style="color:red">Deleting from a data structure in O(T(n) log n)</span>
-3. <span style="color:red">Dynamic Programming</span>
-        a. <span style="color:red">DP optimizations</span>
-                - <span style="color:red">Divide and Conquer DP</span>
-                - <span style="color:red">Knuth's Optimization</span>
-        b. <span style="color:red">Tasks</span>
-                - <span style="color:red">Dynamic Programming on Broken Profile. Problem "Parquet"</span>
-                - <span style="color:red">Finding the largest zero submatrix</span>
-4. <span style="color:red">String Processing</span>
-        a. <span style="color:red">Fundamentals</span>
-                - <span style="color:red">String Hashing</span>
-                - <span style="color:red">Rabin-Karp for String Matching</span>
-                - <span style="color:red">Prefix function - Knuth-Morris-Pratt</span>
-                - <span style="color:red">Z-function</span>
-                - <span style="color:red">Suffix Array</span>
-                - <span style="color:red">Aho-Corasick algorithm</span>
-        b. <span style="color:red">Advanced</span>
-                - <span style="color:red">Suffix Tree</span>
-                - <span style="color:red">Suffix Automaton</span>
-                - <span style="color:red">Lyndon factorization</span>
-        c. <span style="color:red">Tasks</span>
-                - <span style="color:red">Expression parsing</span>
-                - <span style="color:red">Manacher's Algorithm - Finding all sub-palindromes in O(N)</span>
-                - <span style="color:red">Finding repetitions</span>
-5. <span style="color:red">Linear Algebra</span>
-        a. <span style="color:red">Matrices</span>
-                - <span style="color:red">Gauss & System of Linear Equations</span>
-                - <span style="color:red">Gauss & Determinant</span>
-                - <span style="color:red">Kraut & Determinant</span>
-                - <span style="color:red">Rank of a matrix</span>
-6. <span style="color:red">Combinatorics</span>
-        a. <span style="color:red">Fundamentals</span>
-                - <span style="color:red">Finding Power of Factorial Divisor</span>
-                - <span style="color:red">Binomial Coefficients</span>
-                - <span style="color:red">Catalan Numbers</span>
-        b. <span style="color:red">Techniques</span>
-                - <span style="color:red">The Inclusion-Exclusion Principle</span>
-                - <span style="color:red">Burnside's lemma / Pólya enumeration theorem</span>
-                - <span style="color:red">Stars and bars</span>
-                - <span style="color:red">Generating all K-combinations</span>
-        c. <span style="color:red">Tasks</span>
-                - <span style="color:red">Placing Bishops on a Chessboard</span>
-                - <span style="color:red">Balanced bracket sequences</span>
-                - <span style="color:red">Counting labeled graphs</span>
-7. <span style="color:red">Numerical Methods</span>
-        a. <span style="color:red">Search</span>
-                - <span style="color:red">Binary Search</span>
-                - <span style="color:red">Ternary Search</span>
-                - <span style="color:red">Newton's method for finding roots</span>
-        b. <span style="color:red">Integration</span>
-                - <span style="color:red">Integration by Simpson's formula</span>
-8. <span style="color:red">Geometry</span>
-        a. <span style="color:red">Elementary operations</span>
-                - <span style="color:red">Basic Geometry</span>
-                - <span style="color:red">Finding the equation of a line for a segment</span>
-                - <span style="color:red">Intersection Point of Lines</span>
-                - <span style="color:red">Check if two segments intersect</span>
-                - <span style="color:red">Intersection of Segments</span>
-                - <span style="color:red">Circle-Line Intersection</span>
-                - <span style="color:red">Circle-Circle Intersection</span>
-                - <span style="color:red">Common tangents to two circles</span>
-                - <span style="color:red">Length of the union of segments</span>
-        b. span style="color:red">Polygons</span>
-                - <span style="color:red">Oriented area of a triangle</span>
-                - <span style="color:red">Area of simple polygon</span>
-                - <span style="color:red">Check if points belong to the convex polygon in O(log N)</span>
-                - <span style="color:red">Minkowski sum of convex polygons</span>
-                - <span style="color:red">Pick's Theorem - area of lattice polygons</span>
-                - <span style="color:red">Lattice points of non-lattice polygon</span>
-        c. <span style="color:red">Convex hull</span>
-                - <span style="color:red">Convex hull construction</span>
-                - <span style="color:red">Convex hull trick and Li Chao tree</span>
-        d. <span style="color:red">Sweep-line</span>
-                - <span style="color:red">Search for a pair of intersecting segments</span>
-        e. <span style="color:red">Planar graphs</span>
-                - <span style="color:red">Finding faces of a planar graph</span>
-                - <span style="color:red">Point location in O(log N)</span>
-        f. <span style="color:red">Miscellaneous</span>
-                - <span style="color:red">Finding the nearest pair of points</span>
-                - <span style="color:red">Delaunay triangulation and Voronoi diagram</span>
-                - <span style="color:red">Vertical decomposition</span>
-                - <span style="color:red">Half-plane intersection - S&I Algorithm in O(N log N)</span>
-9. <span style="color:red">Graphs</span>
-        a. <span style="color:red">Graph traversal</span>
-                - <span style="color:red">Breadth First Search</span>
-                - <span style="color:red">Depth First Search</span>
-        b. <span style="color:red">Connected components, bridges, articulations points</span>
-                - <span style="color:red">Finding Connected Components</span>
-                - <span style="color:red">Finding Bridges in O(N+M)</span>
-                - <span style="color:red">Finding Bridges Online</span>
-                - <span style="color:red">Finding Articulation Points in O(N+M)</span>
-                - <span style="color:red">Strongly Connected Components and Condensation Graph</span>
-                - <span style="color:red">Strong Orientation</span>
-        c. <span style="color:red">Single-source shortest paths</span>
-                - <span style="color:red">Dijkstra - finding shortest paths from given vertex</span>
-                - <span style="color:red">Dijkstra on sparse graphs</span>
-                - <span style="color:red">Bellman-Ford - finding shortest paths with negative weights</span>
-                - <span style="color:red">0-1 BFS</span>
-                - <span style="color:red">D´Esopo-Pape algorithm</span>
-        d. <span style="color:red">All-pairs shortest paths</span>
-                - <span style="color:red">Floyd-Warshall - finding all shortest paths</span>
-                - <span style="color:red">Number of paths of fixed length / Shortest paths of fixed length</span>
-        e. <span style="color:red">Spanning trees</span>
-                - <span style="color:red">Minimum Spanning Tree - Prim's Algorithm</span>
-                - <span style="color:red">Minimum Spanning Tree - Kruskal</span>
-                - <span style="color:red">Minimum Spanning Tree - Kruskal with Disjoint Set Union</span>
-                - <span style="color:red">Second best Minimum Spanning Tree - Using Kruskal and Lowest - - Common Ancestor</span>
-                - <span style="color:red">Kirchhoff Theorem</span>
-                - <span style="color:red">Prüfer code</span>
-        f. <span style="color:red">Cycles</span>
-                - <span style="color:red">Checking a graph for acyclicity and finding a cycle in O(M)</span>
-                - <span style="color:red">Finding a Negative Cycle in the Graph</span>
-                - <span style="color:red">Eulerian Path</span>
-        g. <span style="color:red">Lowest common ancestor</span>
-                - <span style="color:red">Lowest Common Ancestor</span>
-                - <span style="color:red">Lowest Common Ancestor - Binary Lifting</span>
-                - <span style="color:red">Lowest Common Ancestor - Farach-Colton and Bender algorithm</span>
-                - <span style="color:red">Solve RMQ by finding LCA</span>
-                - <span style="color:red">Lowest Common Ancestor - Tarjan's off-line algorithm</span>
-        h. <span style="color:red">Flows and related problems</span>
-                - <span style="color:red">Maximum flow - Ford-Fulkerson and Edmonds-Karp</span>
-                - <span style="color:red">Maximum flow - Push-relabel algorithm</span>
-                - <span style="color:red">Maximum flow - Push-relabel algorithm improved</span>
-                - <span style="color:red">Maximum flow - Dinic's algorithm</span>
-                - <span style="color:red">Maximum flow - MPM algorithm</span>
-                - <span style="color:red">Flows with demands</span>
-                - <span style="color:red">Minimum-cost flow</span>
-                - <span style="color:red">Assignment problem</span>
-        i <span style="color:red">Matchings and related problems</span>
-                - <span style="color:red">Bipartite Graph Check</span>
-                - <span style="color:red">Kuhn's Algorithm - Maximum Bipartite Matching</span>
-        j. <span style="color:red">Miscellaneous</span>
-                - <span style="color:red">Topological Sorting</span>
-                - <span style="color:red">Edge connectivity / Vertex connectivity</span>
-                - <span style="color:red">Tree painting</span>
-                - <span style="color:red">2-SAT</span>
-                - <span style="color:red">Heavy-light decomposition</span>
-10. <span style="color:red">Miscellaneous</span>
-        a. <span style="color:red">Sequences</span>
-                - <span style="color:red">RMQ task (Range Minimum Query - the smallest element in an interval)</span>
-                - <span style="color:red">Longest increasing subsequence</span>
-                - <span style="color:red">Search the subsegment with the maximum/minimum sum</span>
-                - <span style="color:red">K-th order statistic in O(N)</span>
-                - <span style="color:red">MEX task (Minimal Excluded element in an array)</span>
-        b. <span style="color:red">Game Theory</span>
-                - <span style="color:red">Games on arbitrary graphs</span>
-                - <span style="color:red">Sprague-Grundy theorem. Nim</span>
-        c. <span style="color:red">Schedules</span>
-                - <span style="color:red">Scheduling jobs on one machine</span>
-                - <span style="color:red">Scheduling jobs on two machines</span>
-                - <span style="color:red">Optimal schedule of jobs given their deadlines and durations</span>
-        d. <span style="color:red">Miscellaneous</span>
-                - <span style="color:red">Tortoise and Hare Algorithm (Linked List cycle detection)</span>
-                - <span style="color:red">Josephus problem</span>
-                - <span style="color:red">15 Puzzle Game: Existence Of The Solution</span>
-                - <span style="color:red">The Stern-Brocot Tree and Farey Sequences</span>
+1. Algebra
+	a. Fundamentals
+		- Binary Exponentiation
+		- Euclidean algorithm for computing the greatest common divisor
+		- Extended Euclidean Algorithm
+		- Linear Diophantine Equations
+		- Fibonacci Numbers
+	b. Prime numbers
+		- Sieve of Eratosthenes
+		- Linear Sieve
+		- Primality tests
+		- Integer factorization
+	c. Number-theoretic functions
+		- Euler's totient function
+		- Number of divisors / sum of divisors
+	d. Modular arithmetic
+		- Modular Inverse
+		- Linear Congruence Equation
+		- Chinese Remainder Theorem
+		- Garner's Algorithm
+		- Factorial modulo p
+		- Discrete Log
+		- Primitive Root
+		- Discrete Root
+		- Montgomery Multiplication
+	e. Number systems
+		- Balanced Ternary
+		- Gray code
+	f. Miscellaneous
+		- Bit manipulation
+		- Enumerating submasks of a bitmask
+		- Arbitrary-Precision Arithmetic
+		- Fast Fourier transform
+		- Operations on polynomials and series
+		- Continued fractions
+		- Factoring Exponentiation
+2. Data Structures
+	a. Fundamentals
+		- Minimum Stack / Minimum Queue
+		- Sparse Table
+	b. Trees
+		- Disjoint Set Union
+		- Fenwick Tree
+		- Sqrt Decomposition
+		- Segment Tree
+		- Treap
+		- Sqrt Tree
+		- Randomized Heap
+	c. Advanced
+		- Deleting from a data structure in O(T(n) log n)
+3. Dynamic Programming
+	a. DP optimizations
+		- Divide and Conquer DP
+		- Knuth's Optimization
+	b. Tasks
+		- Dynamic Programming on Broken Profile. Problem "Parquet"
+		- Finding the largest zero submatrix
+4. String Processing
+	a. Fundamentals
+		- String Hashing
+		- Rabin-Karp for String Matching
+		- Prefix function - Knuth-Morris-Pratt
+		- Z-function
+		- Suffix Array
+		- Aho-Corasick algorithm
+	b. Advanced
+		- Suffix Tree
+		- Suffix Automaton
+		- Lyndon factorization
+	c. Tasks
+		- Expression parsing
+		- Manacher's Algorithm - Finding all sub-palindromes in O(N)
+		- Finding repetitions
+5. Linear Algebra
+	a. Matrices
+		- Gauss & System of Linear Equations
+		- Gauss & Determinant
+		- Kraut & Determinant
+		- Rank of a matrix
+6. Combinatorics
+	a. Fundamentals
+		- Finding Power of Factorial Divisor
+		- Binomial Coefficients
+		- Catalan Numbers
+	b. Techniques
+		- The Inclusion-Exclusion Principle
+		- Burnside's lemma / Pólya enumeration theorem
+		- Stars and bars
+		- Generating all K-combinations
+	c. Tasks
+		- Placing Bishops on a Chessboard
+		- Balanced bracket sequences
+		- Counting labeled graphs
+7. Numerical Methods
+	a. Search
+		- Binary Search
+		- Ternary Search
+		- Newton's method for finding roots
+	b. Integration
+		- Integration by Simpson's formula
+8. Geometry
+	a. Elementary operations
+		- Basic Geometry
+		- Finding the equation of a line for a segment
+		- Intersection Point of Lines
+		- Check if two segments intersect
+		- Intersection of Segments
+		- Circle-Line Intersection
+		- Circle-Circle Intersection
+		- Common tangents to two circles
+		- Length of the union of segments
+	b. Polygons
+		- Oriented area of a triangle
+		- Area of simple polygon
+		- Check if points belong to the convex polygon in O(log N)
+		- Minkowski sum of convex polygons
+		- Pick's Theorem - area of lattice polygons
+		- Lattice points of non-lattice polygon
+	c. Convex hull
+		- Convex hull construction
+		- Convex hull trick and Li Chao tree
+	d. Sweep-line
+		- Search for a pair of intersecting segments
+	e. Planar graphs
+		- Finding faces of a planar graph
+		- Point location in O(log N)
+	f. Miscellaneous
+		- Finding the nearest pair of points
+		- Delaunay triangulation and Voronoi diagram
+		- Vertical decomposition
+		- Half-plane intersection - S&I Algorithm in O(N log N)
+9. Graphs
+	a. Graph traversal
+		- Breadth First Search
+		- Depth First Search
+	b. Connected components, bridges, articulations points
+		- Finding Connected Components
+		- Finding Bridges in O(N+M)
+		- Finding Bridges Online
+		- Finding Articulation Points in O(N+M)
+		- Strongly Connected Components and Condensation Graph
+		- Strong Orientation
+	c. Single-source shortest paths
+		- Dijkstra - finding shortest paths from given vertex
+		- Dijkstra on sparse graphs
+		- Bellman-Ford - finding shortest paths with negative weights
+		- 0-1 BFS
+		- D´Esopo-Pape algorithm
+	d. All-pairs shortest paths
+		- Floyd-Warshall - finding all shortest paths
+		- Number of paths of fixed length / Shortest paths of fixed length
+	e. Spanning trees
+		- Minimum Spanning Tree - Prim's Algorithm
+		- Minimum Spanning Tree - Kruskal
+		- Minimum Spanning Tree - Kruskal with Disjoint Set Union
+		- Second best Minimum Spanning Tree - Using Kruskal and Lowest - - Common Ancestor
+		- Kirchhoff Theorem
+		- Prüfer code
+	f. Cycles
+		- Checking a graph for acyclicity and finding a cycle in O(M)
+		- Finding a Negative Cycle in the Graph
+		- Eulerian Path
+	g. Lowest common ancestor
+		- Lowest Common Ancestor
+		- Lowest Common Ancestor - Binary Lifting
+		- Lowest Common Ancestor - Farach-Colton and Bender algorithm
+		- Solve RMQ by finding LCA
+		- Lowest Common Ancestor - Tarjan's off-line algorithm
+	h. Flows and related problems
+		- Maximum flow - Ford-Fulkerson and Edmonds-Karp
+		- Maximum flow - Push-relabel algorithm
+		- Maximum flow - Push-relabel algorithm improved
+		- Maximum flow - Dinic's algorithm
+		- Maximum flow - MPM algorithm
+		- Flows with demands
+		- Minimum-cost flow
+		- Assignment problem
+	i. Matchings and related problems
+		- Bipartite Graph Check
+		- Kuhn's Algorithm - Maximum Bipartite Matching
+	j. Miscellaneous
+		- Topological Sorting
+		- Edge connectivity / Vertex connectivity
+		- Tree painting
+		- 2-SAT
+		- Heavy-light decomposition
+10. Miscellaneous
+	a. Sequences
+		- RMQ task (Range Minimum Query - the smallest element in an interval)
+		- Longest increasing subsequence
+		- Search the subsegment with the maximum/minimum sum
+		- K-th order statistic in O(N)
+		- MEX task (Minimal Excluded element in an array)
+	b. Game Theory
+		- Games on arbitrary graphs
+		- Sprague-Grundy theorem. Nim
+	c. Schedules
+		- Scheduling jobs on one machine
+		- Scheduling jobs on two machines
+		- Optimal schedule of jobs given their deadlines and durations
+	d. Miscellaneous
+		- Tortoise and Hare Algorithm (Linked List cycle detection)
+		- Josephus problem
+		- 15 Puzzle Game: Existence Of The Solution
+		- The Stern-Brocot Tree and Farey Sequences
