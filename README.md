@@ -1,16 +1,16 @@
-#CP Algorithms
+# CP Algorithms
 
 The goal of this person is to traverse the wonderful resource https://cp-algorithms.com which provides descriptions of many algorithms and data structures especially popular in field of competitive programming. Moreover he wants to improve the absorbed knowledge by reading the articles and solving all problems from the collection.
 
-##Progress
+## Progress
 
 - <span style="color:red">Untouched</span>
 - <span style="color:yellow">Read and Partially Solved</span>
 - <span style="color:green">Solved</span>
 
-###Modules
+### Modules
 
-1. <span style="color:red">Algebra</span>
+1. <p><span style="color:red">Algebra</span></p>
         a. <span style="color:red">Fundamentals</span>
                 - <span style="color:red">Binary Exponentiation</span>
                 - <span style="color:red">Euclidean algorithm for computing the greatest common divisor</span>
