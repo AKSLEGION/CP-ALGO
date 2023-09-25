@@ -5,7 +5,7 @@ The goal of this person is to traverse the wonderful resource https://cp-algorit
 ## Progress
 
 - Untouched
-- <u>Read and Partially Solved</u>
+- *Read and Partially Solved*
 - ~~Solved~~
 
 ### Modules
